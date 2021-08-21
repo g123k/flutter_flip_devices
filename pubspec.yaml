@@ -1,0 +1,19 @@
+name: flutter_flip_devices
+description: Develop easily on devices like the Samsung Galaxy Z Flip / Z Flip 3
+version: 1.0.0
+homepage: https://github.com/g123k/flutter_flip_devices
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dual_screen: ^1.0.0+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:

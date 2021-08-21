@@ -1,0 +1,20 @@
+name: flutter_flip_devices_example
+description: Demonstrates how to use the flutter_flip_devices plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_flip_devices:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
